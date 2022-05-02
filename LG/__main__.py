@@ -105,7 +105,7 @@ home_keyboard_pm = InlineKeyboardMarkup(
             ),
             InlineKeyboardButton(
                 text="🦋 Mᴜꜱɪᴄ 🦋",
-                input_message_content=InputTextMessageContent("/mhelp"),
+                Message=InputTextMessageContent("/mhelp"),
             ),
         ],        
         [
@@ -170,7 +170,7 @@ keyboard = InlineKeyboardMarkup(
             ),
             InlineKeyboardButton(
                 text="🦋 Mᴜꜱɪᴄ 🦋",
-                input_message_content=InputTextMessageContent("/mhelp"),
+                Message=InputTextMessageContent("/mhelp"),
             ),
         ],        
         [
