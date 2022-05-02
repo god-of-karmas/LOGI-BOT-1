@@ -105,7 +105,7 @@ home_keyboard_pm = InlineKeyboardMarkup(
             ),
             InlineKeyboardButton(
                 text="🦋 Mᴜꜱɪᴄ 🦋",
-                Message=InputTextMessageContent("/mhelp"),
+                url=f"https://telegra.ph/MUSIC-COMMANDS-04-06",
             ),
         ],        
         [
@@ -170,7 +170,7 @@ keyboard = InlineKeyboardMarkup(
             ),
             InlineKeyboardButton(
                 text="🦋 Mᴜꜱɪᴄ 🦋",
-                Message=InputTextMessageContent("/mhelp"),
+                url=f"https://telegra.ph/MUSIC-COMMANDS-04-06",
             ),
         ],        
         [
